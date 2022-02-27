@@ -11,12 +11,13 @@ function App() {
       
 
         <Drawer/>
+        <Drawer/>
+        <Drawer/>
+        <Drawer/>
+        <Drawer/>
+        <Drawer/>
         
-        
-
-
-      
-
+      <Drawer/>
       <Header />
 
       
